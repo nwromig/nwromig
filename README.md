@@ -18,4 +18,4 @@
 - he/him
 
 - ### 👁️ Fun fact:
--  I'm a Computer Science major hoping to go into the creative field like building games or networks!
+-  I'm a 2nd Year Computer Science major hoping to go into the creative field like building games or networks!
