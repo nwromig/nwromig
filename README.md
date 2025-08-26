@@ -1,5 +1,5 @@
 ## Hiya👋
-
+---
 - ### 🔭 Coursework Completed
 - Computer Science I
 
