@@ -1,21 +1,8 @@
-## Hiya👋
----
-- ### 🔭 Coursework Completed
-- Computer Science I
-- Computer Science II
-- Discrete Structures & Algorithms
-- Operating Systems & Concepts
+- ### Coursework Completed
+- Computer Science I & 2, Operating Systems & Concepts, Computer Organization, Data Structures & Algorithms
 
-- ### 🌱 Coursework In Progress
-- Logic for Computer Scientists
-- Computer Organization
-- Intro to Cyber Security
-
-- ### 📫 How to reach me:
+- ### How to reach me:
 -  romig.6@wright.edu
 
-- ### 👻 Pronouns:
+- ### Pronouns:
 - he/him
-
-- ### 👁️ Fun fact:
--  I'm a 2nd Year Computer Science major hoping to go into the creative field like building games or networks!
